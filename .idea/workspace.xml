@@ -37,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="investment.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="investment.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/investment.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="171" selection-end="171" vertical-scroll-proportion="0.14382403">
+            <state line="5" column="8" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="company.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/company.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="54" selection-start="202" selection-end="202" vertical-scroll-proportion="0.11505922">
               <folding />
             </state>
           </provider>
@@ -63,6 +72,7 @@
         <option value="$PROJECT_DIR$/app/views/investments/_form.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/models/investment.rb" />
+        <option value="$PROJECT_DIR$/app/models/company.rb" />
       </list>
     </option>
   </component>
@@ -436,7 +446,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/investment.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="171" selection-end="171" vertical-scroll-proportion="0.14382403">
+        <state line="5" column="8" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/company.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="54" selection-start="202" selection-end="202" vertical-scroll-proportion="0.11505922">
           <folding />
         </state>
       </provider>
