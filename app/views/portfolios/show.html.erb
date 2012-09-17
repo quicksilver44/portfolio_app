@@ -4,7 +4,12 @@
   <b>Description:</b>
   <%= @portfolio.description %>
 </p>
-
-
+       <% @portfolio.investments.each do|investment| %>
+    <p>
+    <%= investment.company_id %>
+    <%= investment.quantity %>
+    <%=  @portfolio.worth.cost %>
+    <% end%>
+       </p>
 <%= link_to 'Edit', edit_portfolio_path(@portfolio) %> |
 <%= link_to 'Back', portfolios_path %>
